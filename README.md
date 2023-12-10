@@ -1,4 +1,7 @@
-to run, just ```$python ii.py``` in a terminal. The terminal will be your screen
+```pip install blessed```
+```python ii.py``` 
+
+The terminal will be your screen
 
 controls:
 - typing when there's a cursor
