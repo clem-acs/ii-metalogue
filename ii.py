@@ -324,7 +324,7 @@ class Editor:
         self.cursor_position = 0
         self.selected_index += 1
         if self.selected_index > len(self.tree.current_stream):
-            # self.tree.switch_stream(self.selected_index-1, 1, True) # added this for the metalogue
+            self.tree.switch_stream(self.selected_index-1, 1, True) # added this for the metalogue
             self.selected_index = 1
         self.current_timer = initial_timer
 
