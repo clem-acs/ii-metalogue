@@ -1,0 +1,169 @@
+- let's start from the top
+	- a prologue
+		- i'm on a flight to tokyo, and i'm not going to be using capital letters in this prologue. 
+			- i've just read first part of "steps to an ecology of mind" by gregory bateson, which consists of a series of metalogues - dialogues in which the form and substance get mixed up
+				- they've struck a note with me, and have given me an idea for an exercise. for some context, i'm writing this using a program which i am in the processes of developing (with a handful of collaborators), which allows for the construction of "trees" of text. 
+					- in it's current state, it is possible to go up and down, create branches, and, in the presence of branches, move left and right along those branches. it's also possible to wrap round from where you are back to the top. if you do this, you will by default swim down the same "stream" from the top of the tree to the leaf you just left off at. 
+					- here, for example, is a new branch, the right of the one that i just wrote. new branches can be inserted after any paragraph, and will always appear to the right of any other paragraphs that were previous to that paragraph. 
+						- i realise now that i've made a bit of an error - the intention (and i was intending to talk more of intention very soon) for this piece here was to write it in such a way that it is pleasant to read each stream one at a time. given that i made a branch at the point i did in the prologue, you will have had to suffer through the first part of the prologue twice. i hope i have not lost your attention. 
+							- i suppose if you are reading these words, i likely haven't lost your attention. or maybe i momentarily lost it, and now regained it by referencing it. i will not pull that trick too often, or it will cheapen. 
+								- where was i . . .
+									- ah yes, i was explaining the features of this program, how it allows one to write and navigate trees. 
+										- the main intention for this exercise is to devise a new program that lets me develop text a little differently. i would like to use a format inspired by bateson's "metalogues" to design such a program. 
+											- one fun thing is that i can stop the program, make some changes to the code, and then restart where i left off with those changes in place. there are two changes i'd like to make before starting this text properly.
+												- the first is simple: i would like to prevent myself from going "up" -  i would like to be continuously pushed downwards in my text. if i would like to make a new branch, i must do so by going all the way from the top. 
+													- (if i had implemented this before writing this prologue, i would not have made the error of putting a branch so far down the tree)
+														- the second is also there to encourage a sense of forwardness, and to put myself closer in the position of the reader - which is to have the every loop from the top, by default, go down the next tree to the right whenever loop occurs. 
+															- this will not make any differences when working on the right most stream (which one usually does when one is just adding to the text, and not going back), but i intend to do something a bit interesting with the form here that will make that useful. 
+																- okay, i'm almost done with the prologue. before writing the prologue, i had intended to write about all sorts of intentions i have for this piece. i thought it would be fun to first set explicit intentions, then have the piece play out and watch the difference between the intention and reality. 
+																	- but now i've gone on much too long with this prologue (and made you read the beginning of it twice!), so i'll get straight to the text. 
+																		- oh and i'll implement those changes to the program first. 
+																			- enjoy the show. 
+	- one: intentions
+		- Temporary Character: I've been invoked as a temporary character to get this metalogue started. I'm only reall here to introduce you to the idea of characters.
+			- Another Temporary Character: I've been introduced to draw attention to our first obstacle, namely that things written "high up" in such a tree are visited rather often. 
+				- TC: How do you mean? 
+					- ATC: Well, since this is the first stream of the tree, it's not going to be very apparent. It will become clearer in subsequent streams - trust me. 
+						- TC: Right, I suppose I'll trust you. 
+					- ATC: See what I mean?
+						- TC: Oh. Yes I suppose, it could become awfully annoying to have to read long passages of unthought out text many times in a row. 
+							- ATC: Precisely. What should we do about this? 
+								- TC: Well one thing we can do is never make any of the streams too long.
+				- TC: Yes. 
+					- TC: I'm getting irritated already. 
+						- ATC: Imagine how much worse it would be if the streams were long. 
+							- TC: I suppose, but it's still going to be annoying. 
+								- ATC: Well, that's actually the point of the whole metalogue. 
+									- TC: Really?
+										- ATC: Yes, but it shouldn't be up to us temporary characters to introduce the point. 
+		- Intendor: !
+			- Intendor: I suppose I've been introduced to state the intentions. 
+				- Writer: Yes, you have. To state my intentions. 
+					- Intendor: Oh wow, this got meta very quickly. 
+						- Writer: Apologies. Let's switch to a branch where I don't rear my head. 
+			- I: The point of this metalogue is to come up with a design for a different writing program, which has some of the same ideas behind it as this one, but makes up for some it's deficits. 
+				- I: I say it's the "point", but on reflection I'm not entirely sure what that means. More accurately, it's an intention. 
+					- I: Given that everything in this current text is written in sequence, and cannot be erased or editted once it's written, references to what will happen later in the text can only really be in the form intentions - which may or may not be fulfilled. 
+						- I: I had some other intentions, but I can't recall them. 
+							- Recaller: Perhaps I can help.
+								- I: Oh. Yes perhaps you can, but maybe in a new stream? 
+									- R: Yes perhaps. 
+										- I: Let's branch the stream near the top, to avoid that awful matter of repeated text.
+											- R: Good idea.
+		- Recaller: There were some past intentions which motivate this current writing. It would be helpful, for the writing process, to have those intentions be more explicit. 
+			- Intendor: Okay, great, that would be lovely, please do recall them. But do know that recalling an intention does not bind you to it!
+				- Recaller: Sure, but neither does stating an intention. 
+					- Intendor: Right, but stating an intention does have a bit more gravity than simply recalling it. 
+						- Recaller: Okay great, why don't I recall the intentions that have been set in the past, and you can then restate those which you wish to give this "gravity". 
+							- Intendor: Very well. 
+								- Recaller: Okay let me see... 
+									- Recaller: Ah yes, here's some notes that were made the last time this program was used: "We now have five generators: nested <><><> sequences ; build anew every time ; cutting - bookmark ; building a deck ; command toolbox".
+										- Intendor: Okay wow, it's funny how how we, both being characters generated by the author, both know what those words mean. The reader won't have the necessary context. 
+											- Intendor: I'm also noticing that the character-labelling in this text is a little inconsitent. I should really be using initials once characters have been introduced once. I'll set an intention to be a little more consistent with that from now. 
+												- R: Very nice. Yes I suppose it would be good to develop the context for each of those ideas, such that the reader can understand them better. 
+													- I: Yes, but perhaps later. I'll set that as another intention. 
+														- R: Okay yes. But will you remember?
+															- I: You can help me with that. 
+																- R: Haha, very good. Okay what next? 
+		- Summariser: Here's where we are at so far. We've introduced two important characters: the recaller, and intendor. And now I suppose a third, myself, the summariser. The recaller gave us some cryptic notes on what we'd like a future writing program to look like, and the intendor set the intention of explaining these a little better to the reader. 
+			- I: I suppose there's one other intention I'd like to make a little more explicit: as this text is being written with a writing program (one designed for writing trees, such as this text), the experience of writing this text, including greivances, inspiration, and insights which obtain as a result of (or part of) the experience, will also help inform the design. 
+				- S: Yes great thank you. And wow yes I also now notice that I forgot to state the main intention that was set at the beginning, namely to come up with a new writing program. 
+	- two: explorations
+		- R: There are five cryptic notes, written before I, the Recaller, was conjured up as a character, which can scaffold some explorations. 
+			- R: These are: nested <><><> sequences; build anew every time; cutting - bookmark; building a deck; command toolkit
+				- I: The exploration will take place as follows: First, there will be a conversation between "Wisdom" and "Curiosity". These play the role of "Father" and "Daughter" in Bateson's Metalogues - the former is introduced to explicate ideas in the author's mind, whilst the latter acts as an imagined external questioner, who is not tainted by norms of knowledge that be. 
+					- I: Once this first pass is done, further characters may come along and comment on the text. 
+						- Anticipator: Hold on a moment, surely the problem of the "repeated beginnings" will rear its head for this. 
+							- I: Ah yes. Well I suppose Wisdom and Curiosity will know that they are in such a predicament. We can let them figure it out. 
+				- Curiosity: So what's this all about then? Do tell me what the notes mean. 
+					- Wisdom: I shall, but let's tread lightly. 
+						- C: What do you mean?
+							- W: The words we say near the beginning hear matter an awful lot, which is part of what we're trying to avoid. 
+								- C: You're not helping make things less cryptic!
+									- W: Okay let me start by explaining what is meant by "build anew every time". The idea here is that maybe, instead of always adding words as branches to an ever growing tree, we should be expected to reconstruct everything we know from the ground up every time we start anew. 
+										- C: Oh. But wouldn't that be awfully cumbersome?
+											- W: Well yes, if we were to be so extreme I'm sure it would be. The idea is not to be cumbersome, however. It's quite the opposite - the idea is to imagine how to make what we have less cumbersome. 
+												- C: I see. Well, actually, no I don't. How would this make things less cumbersome? 
+													- W: It's a thought experiment - an invitation to think how different things could be. Once we've thought through this, we'll have more ideas to build on. 
+														- C: I see. So how might that look like? If we wanted to build things up from the ground every time? 
+															- W: Well, it should be possible to recreate a version of this even here. Simply make a new branch that branches right near the top, and then write all the relevant bits from the previous branch from memory. 
+																- C: How do you mean? 
+																	- W: Let me show you.
+					- Wisdom: Well I can tell you that "build anew every time" is the thought experiment in which we imagine what it would look like to build the context anew every time it loops, rather than building onto some existing tree. The idea of this thought experiment is to try and think of how different things could be. 
+						- Curiosity: Oh wow! I see. We're on a different branch now. The old branch is history. 
+							- Curiosity: But wait, doesn't that mean we can already do this with the current structure?
+								- Wisdom: Yes and no. We can reacreate a version of it, and play with it (as we are here), but it can get awfully tiring. We might have had a lot of ideas that we can't hold in one head. Also we might want to discard some things higher up the tree, and rewrite those, without losing what's lower down. 
+									- Curiosity: Oh right. So what you want is something like pruning, cutting messy and tangled branches from the tree. 
+										- Wisdom: Yes something like that! But in thought experiment we go ever more extreme, and we have to start anew. 
+											- Curiosity: I see! I want to know more. What's the whole <><><> thing about?
+												- Wisdom: Well the idea is that when we are generating ideas - as we are doing in the current exploration, we are going from a small amount of context to a large amount, building a big tree. That's what the "<" symbol stands for. 
+													- Curiosity: Aha! And then ">" stands for pruning!
+														- Wisdom: Yes something like that. Any process which takes a large amount of generated context or ideas, and refines them into something narrower. In the extreme, starting anew. 
+															- Curiosity: So what's a <><><> sequence? And what does it mean to be nested? 
+																- Wisdom: That's a longer story, and I'm getting a little tired. I think I'd rather start from the top.
+					- W: Well one idea that's kind of fun is the idea of taking a "cutting". Here you take one paragraph - or perhaps a short sequence of paragraphs - and turn it into a new tree. 
+						- C: Interesting. So what's a cutting - bookmark? 
+							- W: The idea is that there's a spectrum between cuttings and "bookmarks" - which would be points in the tree you keep looping back to. If you set a bookmark at a node, and then the looping starts from this point over and over, then this is somewhat like a cutting.  
+								- C: Oh right. So what would be in the middle of that spectrum?
+									- W: Well maybe it's less of a spectrum, and more of a space spanned by "cuttings" and "bookmarks" as basis vectors. There might be combinations of these ideas. 
+										- C: What about a deck? Or a command toolkit? What's that about? 
+											- W: I'm getting awfully tired, I think we should wait another day before explaining these. 
+												- C: Please!
+													- W: Well okay I'll tell you what I mean by deck, but then that's it for this exploration. The idea of a deck is that we might want to cycle through some selected paragraphs randomly, as a kind of inspiration. Maybe one way to prune, or ">", would be to choose a bunch of paragraphs from your tree that are rather nice, and turn them into a "deck", which then can be the inspiration for another round later down the line. 
+														- C: I see. And would you have cuttings in that deck? Or bookmarks? Or some combination? 
+															- W: I don't know, I'm really just exploring. 
+				- S: Well here's a quick summary from the conversation between Wisdom and Curiosity, as to what these mean:
+					- S: ">" is the process of refining some existing tree of text - either as a kind of pruning, or by taking cuttings, or making bookmarks, or building a deck of intersting paragraphs. Or maybe something more fancy with commands that hasn't been explained. Or some wicked combination of these. And then we'd like to these in sequences. Or even nested sequences, whatever that means. 
+	- three: ">"
+		- Wisdom: Now we've got to a really quite interesting self-referrential part of this metalogue. We've got a bunch of ideas (we've gone "<"), and now we'd like to contract them into a specific idea for another tool. We'd like to go ">". 
+			- Curiosity: But we don't have a way of doing this! That's the whole point of the tool we'd like to have. 
+				- W: Yes precisely. So the idea is - let's think how we might be able to got through the text, and do something with it. 
+					- C: Well we could always build anew!
+						- W: Yes, I could just go ahead and invoke the summariser, ask them for a neat description of what we've done, and then use this to build something new. But that's not very satisfying. 
+							- C: I suppose not. But what would be satisfying? What do you want? 
+								- W: Now that's a good question. 
+									- W: Well in this instance, I'd like to build a better version of this tool. I'd like to take the generators I've written down, and use them as inspiration to build a better version. 
+										- C: Okay but then what? What would you like to use that tool for? It can't just all be writing to make tools to do make writing to make tools. 
+											- W: I suppose not. Eventually I'd like to do all sorts of other things with the tool. And write all sorts of things for other purposes also. 
+												- C: Yes but what? We need to know what this is all for to figure out what to to build!
+													- W: Maybe. Maybe. 
+														- W: You know, writing this has made me rethink what the "tree" structure is really about. 
+															- C: What do you mean?
+																- W: Well we've used it here more to write a continuous sequence, that sometimes starts from the top. But that's not really the point of the tree is it?
+																	- C: Well sometimes we went back to the top to summarise what we had - starting anew, but better! With the context. 
+																		- W: Yes I suppose. But what is it then that we are building? The whole tree? Or just the latest stream? 
+																			- C: Well that's the point of the ">", we're initially just exploring. 
+																				- W: I suppose, I suppose. 
+																					- W: Look, I'm at this point again. I'd like to take the whole stream I've just written, compress what's good about it, and then start again. 
+																						- C: Oh so that's what the nested sequences are about.
+																							- W: Yes, precisely.
+																								- C: Well then...
+				- W: Well we can just start anew.
+					- C: It would be nice to have a little something: a prompt which tells us where to go. 
+						- W: Now that's exactly where this metalogue comes in handy. We can sense what we'd *like* to have when writing this, and that gives ideas of what to build. 
+							- C: So what would we like to have? What kind of prompt? 
+								- W: Well we've suggested that it might be nice to build our own prompts - by taking cuttings or building a dek. 
+									- C: That could be nice! But it might also get a bit cumbersome. 
+										- W: Yes maybe, maybe. Hey, maybe this is where our automated assistants can come in!
+											- C: Yes! Maybe. 
+												- W: Oh dear. 
+													- C: What? 
+														- W: I've forgotten what all exploration was about now. Did we even achieve anything? Or were we just going round in circles?
+															- C: No we can't have been! Look we have new ideas, that's what we wanted wasn't it?
+																- W: Was it? What did we even want?
+																	- C: Oh. I see what you're doing. 
+																		- W: Wouldn't it be nice to have a nice way to recall where we've come from, in a way that keeps us falling into the future. 
+																			- C: Very good. 
+																				- W: I'm serious!
+																					- C: I know you are. It's just getting a bit... trite. 
+																						- W: Apologies. Maybe it's time to wrap this up. 
+																							- C: Yes, maybe it is. 
+	- conclusion
+		- S: Well that was fun! 
+			- S: We did come up with some nice ideas when writing it as well. The crucial thing is, we'd like a way of taking the context that's been generated, and turn it into a more specific piece of content. We have a "<". Now we'd like a ">". 
+				- It should be something that works at multiple scales: we should be able to at any point select a few nodes, and use this as context for something new. In a nested way. 
+					- I'm not really sure the "tree" structure captures everything we'd ike to do here. I suppose we'll see. 
+						- Now look final piece of metalogue: I'd like to be able to take the last couple hours of generation I've produced here, and distill it into something more pleasant to read. In ideal world, whatever ">" tool we use should make it easy to do that. 
+							- And a final note: given that I'll be sending this to my collaborators. It would be interesting for you to go through this another time, and add comments, as branches. Have these comments be with your own characters (they could be characters that represent you). 
+								- This commenting is also something that would be nice to cater towards when designing future versions. 
+									- Be warned, the text won't read nicely in a linear way (the way it kind of does now), once comments are added. 
